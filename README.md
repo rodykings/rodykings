@@ -1,4 +1,4 @@
-### Hello stranger, I'm Rodrigo! 👋
+### Hello, I'm Rodrigo! 👋
 
 Seeker, entrepeneur, engineer ✨🔍
 
