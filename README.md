@@ -6,4 +6,4 @@ Seeker, entrepeneur, engineer ✨🔍
 
 ![Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodykings&theme=dark&hide=Jupyter%20Notebook&layout=compact)
 
-📍 Currently working as a Software Engineer at @Ano Software
+📍 Currently working as a Software Engineer at @Planet
